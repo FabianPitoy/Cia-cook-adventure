@@ -1,1 +1,0 @@
-Tempat menyimpan gambar karakter, NPC, tileset, musik, dll.
